@@ -1,18 +1,17 @@
 # HyperZenithX
 
-Download
-Latest: v1 - Pling
+Download - Latest: v1 - [Pling](https://www.pling.com/p/2141130/)
+
 Port from sweet_k6a (Redmi Note 12 Pro 4G)
 
-Notes
+Notes:
 • Use OFOX MIUI
 • Feedback and bug reports are accepted
 
 Kernel and Magisk:
 • You can use Magisk if you like as well as a different Kernel (changing the Kernel may not work better, try it. Always make a backup)﻿
 
-Changelog
-25/03/2024:
+Changelog - 25/03/2024:
 
 Base 1.0.2.0 Global (MI) - Android 13
 • Port Inicial build based in Hyper Global 1.0.2.0
