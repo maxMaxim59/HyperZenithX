@@ -1,7 +1,7 @@
 # HyperZenithX
 
 ## Download:
-- v1 - v2: [Pling](https://www.pling.com/p/2141130/)
+- v1 - v2 - v3: [Pling](https://www.pling.com/p/2141130/)
 - Presets V4A: [GDrive](https://drive.google.com/file/d/1EeFN3IE0Mr--pLEsVg1FQ02WMd5bh7fc/view?usp=sharing)
 
 - Port from sweet_k6a (Redmi Note 12 Pro 4G)
@@ -14,12 +14,21 @@
 - Always remember to backup your stuff before flashing a clean installation (Clean installation recommended)
 - Unzip the presets in this path: /storage/emulated/0/Android/data/com.pittvandewitt.viperfx/files
 - Feedback and bug reports are accepted
+- **A restart is recommended when setup is complete or restart ui**
 
 ## Installation instructions:
 - Flash ROM
 - Wipe Data
 - Reboot recovery (in this step you can choose to change the Kernel)
 - Reboot system and enjoy
+
+## Changelog V3 - 01/08/2024:
+
+Base 1.0.5.0 Global - Android 13
+- Same registration as the previous version
+- A few fixes and improvements here and there
+- Some extra changes and additions
+- Switch SkiddieKernel
 
 ## Changelog V2 - 08/05/2024:
 
@@ -50,10 +59,16 @@ Base 1.0.2.0 Global (MI) - Android 13
 @kakashi1v1
 @vawnanh2801
 @MMETMA2
-@llionsmods
+@miuimodcollectionchat
+@XiaomiEUAppsGroup
 @SatanModss
 @wstxda
-- If I forgot to give any credit, it will be added
+@SkiddieKernel
+@trrflexgroup
+@greeshan
+@EnOt15P
+@AngealK (Tester)
+• If I forgot to give any credit, it will be added
 
 ## Official channels:
 ⚙️ https://t.me/ZenithXSupport
